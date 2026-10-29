@@ -1,0 +1,70 @@
+{
+  "nische": "KI-Creator Deutschland",
+  "land": "de",
+  "sprache": "de",
+  "seiten": 1,
+  "min_follower": 1000,
+  "max_follower": 0,
+  "sprache_filter": "de",
+  "budget": 5,
+  "nischen_woerter": [
+    "KI",
+    "AI",
+    "ChatGPT",
+    "künstliche Intelligenz",
+    "Prompt",
+    "Prompts",
+    "Automatisierung",
+    "Claude",
+    "Gemini",
+    "n8n"
+  ],
+  "netzwerk": {
+    "seeds": 10,
+    "je_seed": 150,
+    "min_gemeinsam": 2,
+    "max_kandidaten": 300
+  },
+  "queries": [
+    {
+      "query": "site:instagram.com (\"KI Creator\" OR \"AI Creator\")",
+      "zweck": "Selbstbezeichnung"
+    },
+    {
+      "query": "site:instagram.com \"KI Content Creator\"",
+      "zweck": "Selbstbezeichnung"
+    },
+    {
+      "query": "site:instagram.com (\"KI Experte\" OR \"KI Expertin\")",
+      "zweck": "Selbstbezeichnung"
+    },
+    {
+      "query": "site:instagram.com (\"KI Berater\" OR \"KI Beraterin\")",
+      "zweck": "Selbstbezeichnung"
+    },
+    {
+      "query": "site:instagram.com (\"KI Enthusiast\" OR \"KI Nerd\")",
+      "zweck": "Selbstbezeichnung"
+    },
+    {
+      "query": "site:instagram.com \"KI Tipps\"",
+      "zweck": "Thema"
+    },
+    {
+      "query": "site:instagram.com (\"KI für Unternehmer\" OR \"KI für Selbstständige\")",
+      "zweck": "Zielgruppe"
+    },
+    {
+      "query": "site:instagram.com (\"KI für Coaches\" OR \"KI für Berater\")",
+      "zweck": "Zielgruppe"
+    },
+    {
+      "query": "site:instagram.com \"KI für Lehrkräfte\"",
+      "zweck": "Runde 2: KI für Zielgruppe"
+    },
+    {
+      "query": "site:instagram.com \"ChatGPT auf Deutsch\"",
+      "zweck": "Runde 2: KI-Phrase"
+    }
+  ]
+}
